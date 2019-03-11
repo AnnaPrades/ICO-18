@@ -1,4 +1,4 @@
-# ICO-18
+# ICO-19
 Código SPSS para la construcción del ICO-18 a partir de la base de datos de la encuesta de Inserción Laboral de AQU Catalunya
 
 Enlace con la encuesta (ES):http://www.aqu.cat/doc/doc_38348092_1.pdf
